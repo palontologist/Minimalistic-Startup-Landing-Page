@@ -1285,8 +1285,7 @@ button {
     transition: all 0.4s ease;
     max-width: none;
     opacity: 0.4
-    height:auto;
-    width: 500px;
+
 }
 
 .slider .slide.is-selected img {
