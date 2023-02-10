@@ -1286,6 +1286,7 @@ button {
     max-width: none;
     height: auto;
     width: auto;
+    object-fit: cover;
     opacity: 0.4
 
 }
