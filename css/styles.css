@@ -1274,7 +1274,7 @@ button {
     padding: 120px 0 100px;
     position: relative;
     overflow: hidden;
-    width: 50%
+    width: 100%
 }
 
 .slider .slide img {
@@ -1285,6 +1285,8 @@ button {
     transition: all 0.4s ease;
     max-width: none;
     opacity: 0.4
+    height:auto;
+    width: 500px;
 }
 
 .slider .slide.is-selected img {
