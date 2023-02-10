@@ -1278,6 +1278,7 @@ button {
 }
 
 .slider .slide img {
+    justify-content: center;
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
