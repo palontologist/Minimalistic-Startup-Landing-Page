@@ -1,0 +1,26 @@
+{
+  "name": "frontforumfocus",
+  "version": "1.0.0",
+  "description": "Clean and Minimalistic Startup Landing single page template with parallax effect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palontologist/frontforumfocus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palontologist/frontforumfocus/issues"
+  },
+  "homepage": "https://github.com/palontologist/frontforumfocus#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "prisma": "^4.10.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
