@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("postgres://givenchy:frontforumfocus@localhost:5432/frontforumfocus?schema=public")
+  url = "postgres://givenchy:frontforumfocus@localhost:5432/frontforumfocus"
 }
 
 model Post {
